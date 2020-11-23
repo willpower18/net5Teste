@@ -1,4 +1,5 @@
 net5Teste/wwwroot/* linguist-vendored
+net5Teste/Views/* linguist-vendored
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
